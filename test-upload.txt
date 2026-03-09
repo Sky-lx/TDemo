@@ -1,0 +1,10 @@
+测试文件
+========
+
+这是 Qoder 自动上传的测试文件。
+
+时间：2026-03-09
+项目：Qt Automated Testing
+仓库：https://github.com/Sky-lx/TDemo
+
+测试目的：验证 Git 推送功能是否正常工作。
